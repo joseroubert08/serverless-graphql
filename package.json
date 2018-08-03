@@ -40,7 +40,7 @@
     "jwt-decode": "^2.1.0",
     "lodash": "^4.13.1",
     "react": "^15.3.1",
-    "react-dom": "^15.3.1",
+    "react-dom": "^16.0.1",
     "react-relay": "^0.9.3",
     "react-router": "^2.7.0",
     "react-router-relay": "^0.13.5",
